@@ -1,2 +1,2 @@
 # gitDemo
-GitKraten cloning test
+GitKraken cloning test
